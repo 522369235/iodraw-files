@@ -25,7 +25,7 @@
         </mxCell>
         <mxCell id="3z9tr1JO-871WisNbK7G-10" value="管理每个支行的福贝赠送规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3z9tr1JO-871WisNbK7G-9">
           <mxGeometry x="-0.65" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3z9tr1JO-871WisNbK7G-2" value="规则管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,6 +37,16 @@
         <mxCell id="3z9tr1JO-871WisNbK7G-8" value="通过设置用户存款，赠送用户福贝" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3z9tr1JO-871WisNbK7G-7">
           <mxGeometry x="0.1556" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3z9tr1JO-871WisNbK7G-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3z9tr1JO-871WisNbK7G-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3z9tr1JO-871WisNbK7G-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3z9tr1JO-871WisNbK7G-12">
+          <mxGeometry x="-0.1468" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3z9tr1JO-871WisNbK7G-3" value="支行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
