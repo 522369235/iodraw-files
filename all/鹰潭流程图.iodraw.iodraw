@@ -74,8 +74,8 @@
         <mxCell id="3z9tr1JO-871WisNbK7G-19" value="level 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3z9tr1JO-871WisNbK7G-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="298" width="50" height="30" as="geometry" />
+        <mxCell id="3z9tr1JO-871WisNbK7G-20" value="审核申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
