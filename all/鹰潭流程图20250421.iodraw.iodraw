@@ -13,14 +13,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-1" value="额度管理员&lt;div&gt;焦芳芳&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="fDgdYOMjK9Tuh2pztedH-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="380" as="targetPoint" />
+            <mxPoint x="230" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="380" />
-              <mxPoint x="310" y="380" />
+              <mxPoint x="340" y="340" />
+              <mxPoint x="230" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,29 +30,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-2" value="超额审批员&lt;div&gt;熊总&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fDgdYOMjK9Tuh2pztedH-3" target="fDgdYOMjK9Tuh2pztedH-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="310" y="360" />
-              <mxPoint x="310" y="360" />
+              <mxPoint x="230" y="320" />
+              <mxPoint x="230" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-9" value="通过存款金额，为用户赠送福贝" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fDgdYOMjK9Tuh2pztedH-8">
           <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-3" value="各支行&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-6" value="负责管理平台福贝发放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="140" height="30" as="geometry" />
+          <mxGeometry x="50" y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
