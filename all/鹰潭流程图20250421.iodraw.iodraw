@@ -15,6 +15,11 @@
         <mxCell id="fDgdYOMjK9Tuh2pztedH-1" value="额度管理员&lt;div&gt;焦芳芳&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fDgdYOMjK9Tuh2pztedH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fDgdYOMjK9Tuh2pztedH-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-2" value="超额审批员&lt;div&gt;熊总&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
         </mxCell>
