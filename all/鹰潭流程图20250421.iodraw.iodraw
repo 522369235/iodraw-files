@@ -60,6 +60,9 @@
         <mxCell id="fDgdYOMjK9Tuh2pztedH-13" value="1.支行1-50比例时，不需要审批，支行可以直接赋予用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="70" width="320" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fDgdYOMjK9Tuh2pztedH-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="88" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
