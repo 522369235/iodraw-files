@@ -22,7 +22,10 @@
           <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fDgdYOMjK9Tuh2pztedH-6" value="负责管理平台福贝发放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="118" width="140" height="30" as="geometry" />
+          <mxGeometry x="130" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fDgdYOMjK9Tuh2pztedH-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
