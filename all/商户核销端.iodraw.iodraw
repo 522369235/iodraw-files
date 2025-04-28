@@ -49,19 +49,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QMf8rgXO2o-Oj5XNTAi3-0" value="出示用户二维码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QMf8rgXO2o-Oj5XNTAi3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QMf8rgXO2o-Oj5XNTAi3-1" target="QMf8rgXO2o-Oj5XNTAi3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QMf8rgXO2o-Oj5XNTAi3-1" value="商家扫码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QMf8rgXO2o-Oj5XNTAi3-3" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QMf8rgXO2o-Oj5XNTAi3-5" value="填写金额" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="300" width="70" height="30" as="geometry" />
+          <mxGeometry x="440" y="320" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
